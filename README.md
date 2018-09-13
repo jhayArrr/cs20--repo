@@ -1,2 +1,2 @@
-# cs20--repo
+# Cs20-repo
 another repo for cs
