@@ -8,7 +8,7 @@ What we have done
  - Boilerplate
 
 ## To do List
-Finish the case study
+
  - [x] do the layout of the webpage
  - [] finish the case study
  - [] do a webpage summary
