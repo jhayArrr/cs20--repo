@@ -16,5 +16,4 @@ Finish the case study
  - [] browse for pictures, videos and other media for the Project
  - [] list all of the products that are to be put on the business Website
  - [] research for style and different lay outs that can be put on my Website
- - [] learn how to create, add, and insert different media type on the Webpage
- 
+ - [x] learn how to create, add, and insert different media type on the Webpage
